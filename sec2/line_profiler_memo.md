@@ -8,8 +8,8 @@
 　　https://www.visualstudio.com/ja/downloads
 
 <div align="center">
-  <img src="https://github.com/Kento75/Python-Performance-Tuning/tree/master/sec2/img/build_tool_for_windows1.png" />
-  <img src="https://github.com/Kento75/Python-Performance-Tuning/tree/master/sec2/img/build_tool_for_windows2.png" />
+  <img src="https://github.com/Kento75/Python-Performance-Tuning/blob/master/sec2/img/build_tool_for_windows1.PNG" />
+  <img src="https://github.com/Kento75/Python-Performance-Tuning/blob/master/sec2/img/build_tool_for_windows2.PNG" />
 </div>
 
 ```
