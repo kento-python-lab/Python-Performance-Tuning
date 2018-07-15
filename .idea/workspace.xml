@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9275c6f5-eeda-4ee2-a344-873b56008833" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/sec2/before_julia_set_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec2/memo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,23 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="before_julia_set_1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec2/before_julia_set_1.py">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
-              <folding>
-                <element signature="e#36#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="memo.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sec2/memo.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="17">
+              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -54,6 +42,7 @@
         <option value="$PROJECT_DIR$/sec2/before_julia_set_1.py" />
         <option value="$PROJECT_DIR$/sec2/memo.txt" />
         <option value="$PROJECT_DIR$/sec2/memo.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -75,11 +64,6 @@
             <path>
               <item name="Python-Performance-Tuning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Performance-Tuning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Performance-Tuning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Performance-Tuning" type="462c0819:PsiDirectoryNode" />
-              <item name="sec2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,14 +129,14 @@
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18330733" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18330733" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5975232" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5975232" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993808" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -194,9 +178,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sec2/cProfile_memo.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sec2/before_julia_set_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
+        <state relative-caret-position="258">
           <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
           <folding>
             <element signature="e#36#63#0" expanded="true" />
@@ -204,10 +195,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sec2/memo.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="17">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
         </state>
       </provider>
     </entry>
