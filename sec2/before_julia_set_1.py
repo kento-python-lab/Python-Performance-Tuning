@@ -62,6 +62,7 @@ def calc_pure_python(desired_width, max_iterations):
 
 # CPU バウンドの計算関数
 @timefn
+@profile
 def calculate_z_serial_purepython(maxiter, zs, cs):
     """
     ジュリア漸化式を使用して output リストを計算する
