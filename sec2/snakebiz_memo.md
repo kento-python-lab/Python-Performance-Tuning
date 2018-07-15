@@ -15,6 +15,7 @@ $ snakeviz profile.stats
 
 以下、実行時の参考画像
 <div align="center">
-  <img src="https://github.com/Kento75/Python-Performance-Tuning/tree/master/sec2/img/snakebiz_1.png" />
-  <img src="https://github.com/Kento75/Python-Performance-Tuning/tree/master/sec2/img/snakebiz_2.png" />
+  <img src="https://github.com/Kento75/Python-Performance-Tuning/blob/master/sec2/img/snakebiz_1.PNG" />
+  <br>
+  <img src="https://github.com/Kento75/Python-Performance-Tuning/blob/master/sec2/img/snakebiz_2.PNG" />
 </div>
