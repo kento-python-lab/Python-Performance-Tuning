@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9275c6f5-eeda-4ee2-a344-873b56008833" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/sec2/julia_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec2/memory_profiler_memo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec4/sec4-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec4/sec4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec2/profile.stats" beforeDir="false" afterPath="$PROJECT_DIR$/sec2/profile.stats" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,21 +14,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="memory_profiler.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/python_env/Python-Performance-Tuning/Lib/site-packages/memory_profiler.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="sec4-1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sec4/sec4-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4114">
-              <caret line="1126" column="12" lean-forward="true" selection-start-line="1126" selection-start-column="12" selection-end-line="1126" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="memory_profiler_memo.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sec2/memory_profiler_memo.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="308">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,6 +59,8 @@
         <option value="$PROJECT_DIR$/sec2/julia_set.py" />
         <option value="$PROJECT_DIR$/sec2/before_julia_set_1.py" />
         <option value="$PROJECT_DIR$/sec2/memory_profiler_memo.md" />
+        <option value="$PROJECT_DIR$/sec4/sec4.py" />
+        <option value="$PROJECT_DIR$/sec4/sec4-1.py" />
       </list>
     </option>
   </component>
@@ -80,6 +75,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -90,28 +86,12 @@
             <path>
               <item name="Python-Performance-Tuning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Performance-Tuning" type="462c0819:PsiDirectoryNode" />
-              <item name="sec2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Performance-Tuning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="Python-Performance-Tuning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (Python-Performance-Tuning) &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Python-Performance-Tuning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (Python-Performance-Tuning) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="sec4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,14 +152,14 @@
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18330733" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18330733" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.39628482" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.39628482" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993808" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -211,6 +191,41 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sec4/sec4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/python_env/Python-Performance-Tuning/Lib/site-packages/memory_profiler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19142">
+          <caret line="1126" column="12" selection-start-line="1126" selection-start-column="12" selection-end-line="1126" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec2/memory_profiler_memo.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/python_env/Python-Performance-Tuning/Lib/site-packages/memory_profiler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19142">
+          <caret line="1126" column="12" lean-forward="true" selection-start-line="1126" selection-start-column="12" selection-end-line="1126" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec2/memory_profiler_memo.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sec2/before_julia_set_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="901">
@@ -281,15 +296,32 @@
     </entry>
     <entry file="file://$USER_HOME$/python_env/Python-Performance-Tuning/Lib/site-packages/memory_profiler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4114">
-          <caret line="1126" column="12" lean-forward="true" selection-start-line="1126" selection-start-column="12" selection-end-line="1126" selection-end-column="12" />
+        <state relative-caret-position="18989">
+          <caret line="1126" column="12" selection-start-line="1126" selection-start-column="12" selection-end-line="1126" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sec2/memory_profiler_memo.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="153">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec4/sec4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec4/sec4-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
